@@ -5,7 +5,7 @@ Above-the-fold CSS Tools
 
 ### Prioritize above-the-fold content first.
 
-For best performance, PageSpeed Insights [recommends](https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent) inlining the critical (visible, above-the-fold) CSS of your page directly into your HTML. This eliminates additional roundtrips and allows the browser to paint the above-fold experience to your user's screen sooner. The main idea is:
+For best performance, PageSpeed Insights [recommends](https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent) inlining the critical (above-the-fold) CSS of your page directly into your HTML. This eliminates additional roundtrips and allows the browser to paint the above-fold experience to your user's screen sooner. The main idea is:
 
 * Determine the above-the-fold styles for a page and write them between `<style>` tags in the head.
 * Load all other stylesheets in the footer, ideally asynchronously.
