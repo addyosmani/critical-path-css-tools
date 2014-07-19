@@ -1,7 +1,7 @@
 Critical-path CSS Tools
 =========================
 
-For best performance, you may consider inlining the critical (visible, above-the-fold) CSS of your page directly into your HTML. This eliminates additional roundtrips if done correctly can be used to deliver a “one roundtrip” critical path length where only the HTML is a blocking resource. The main idea is:
+For best performance, consider inlining the critical (visible, above-the-fold) CSS of your page directly into your HTML. This eliminates additional roundtrips and allows the browser to paint the above-fold experience to your user's screen sooner. The main idea is:
 
 * Determine the above-the-fold styles for a page and write them between `<style>` tags in the head.
 * Load all other stylesheets in the footer, ideally asynchronously.
