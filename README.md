@@ -31,6 +31,8 @@ Critical-path CSS Tools
 
 ## Async load CSS
 
+Async loading should be used to fetch the rest of your site-wide styles after you've inlined your critical-path CSS.
+
 * [loadCSS](https://github.com/filamentgroup/loadCSS) - loads CSS asynchronously using JS. [Research](https://gist.github.com/scottjehl/87176715419617ae6994) that led to this is also available.
 
 ## Online tools
