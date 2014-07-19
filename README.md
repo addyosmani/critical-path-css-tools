@@ -20,7 +20,7 @@ Critical-path CSS Tools
 
 ## Async load CSS
 
-* [loadCSS](https://github.com/filamentgroup/loadCSS) - loads CSS asynchronously using JS
+* [loadCSS](https://github.com/filamentgroup/loadCSS) - loads CSS asynchronously using JS. [Research](https://gist.github.com/scottjehl/87176715419617ae6994) that led to this is also available.
 
 ## Online tools
 
