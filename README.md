@@ -20,6 +20,11 @@ Critical-path CSS Tools
 * [grunt-critical-css](https://github.com/filamentgroup/grunt-criticalcss)
 
 
+## CasperJS
+
+* [critical-css-casperjs](https://github.com/ibrennan/critical-css-casperjs) - CasperJS script to pull critical CSS information from pages
+
+
 ## Inline styles
 
 * [inline-styles](https://github.com/maxogden/inline-styles) - by Max Ogden replaces link tags with inline style tags + inlines CSS url() calls with data URIs
