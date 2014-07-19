@@ -57,7 +57,7 @@ Note: The Guardian currently also cache their global styles into localStorage fo
 
 ## Bookmarklets/Extensions
 
-* [Snippet](https://gist.github.com/PaulKinlan/6284142) by Paul Kinlan
+* [Snippet](https://gist.github.com/PaulKinlan/6284142) by Paul Kinlan. Patrick Hamann has an [exercise](http://patrickhamann.com/workshops/performance/tasks/2_Critical_Path/2_2.html) using the snippet you can try out.
 * [Snippet](https://gist.github.com/scottjehl/b6129da04733e4e0f9a4) by Scott Jehl
 * [CSSVacuum](https://github.com/ndreckshage/CSSVacuum) by ndreckshage
 
