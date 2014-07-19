@@ -46,6 +46,8 @@ Async loading should be used to fetch the rest of your site-wide styles after yo
 
 * [loadCSS](https://github.com/filamentgroup/loadCSS) - loads CSS asynchronously using JS. [Research](https://gist.github.com/scottjehl/87176715419617ae6994) that led to this is also available.
 
+Note: The Guardian currently also cache their global styles into localStorage for subsequent page loads. More info in this [comment](https://gist.github.com/scottjehl/87176715419617ae6994).
+
 ## Online tools
 
 * [Penthouse online](http://jonassebastianohlsson.com/criticalpathcssgenerator/)
