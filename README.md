@@ -8,6 +8,12 @@ Critical-path CSS Tools
 * [Critical](http://github.com/addyosmani/critical) - by Addy Osmani generates & inlines critical-path CSS (uses Penthouse, [Oust](http://github.com/addyosmani/oust) and inline-styles)
 * [CriticalCSS](https://github.com/filamentgroup/criticalcss) - by FilamentGroup finds & outputs critical CSS
 
+
+## Server-side modules
+
+* [mod_pagespeed](https://code.google.com/p/modpagespeed/) - Apache module for automatic PageSpeed optimization
+* [ngx_pagespeed](https://github.com/pagespeed/ngx_pagespeed) - Nginx module for automatic PageSpeed optimization
+
 ## Grunt tasks
 
 * [grunt-penthouse](https://github.com/fatso83/grunt-penthouse)
