@@ -35,10 +35,10 @@ The following is a list of tools to help generate, inline and report on critical
 
 * [critical-css-casperjs](https://github.com/ibrennan/critical-css-casperjs) - CasperJS script to pull critical CSS information from pages
 
+## Inline sources (styles, scripts)
 
-## Inline styles
-
-* [inline-styles](https://github.com/maxogden/inline-styles) - by Max Ogden replaces link tags with inline style tags + inlines CSS url() calls with data URIs
+* [inline-styles](https://github.com/maxogden/inline-styles) - by Max Ogden, replaces `<link>` tags with inline `<style>` tags + inlines CSS url() calls with data URIs
+* [gulp-inline-source](https://github.com/fmal/gulp-inline-source) - by Filip Malinowski, replaces `<link>` tags with inline `<style>` tags, and replaces `<script src="">` tags with their inline content
 
 ## Async load CSS
 
