@@ -35,6 +35,10 @@ The following is a list of tools to help generate, inline and report on critical
 
 * [critical-css-casperjs](https://github.com/ibrennan/critical-css-casperjs) - CasperJS script to pull critical CSS information from pages
 
+## PhantomJS
+
+* [dr-css-inliner](https://github.com/drdk/dr-css-inliner) - PhantomJS script to inline above-the-fold CSS on a page.
+
 ## Inline sources (styles, scripts)
 
 * [inline-styles](https://github.com/maxogden/inline-styles) - by Max Ogden, replaces `<link>` tags with inline `<style>` tags + inlines CSS url() calls with data URIs
