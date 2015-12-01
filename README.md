@@ -29,7 +29,7 @@ The following is a list of tools to help generate, inline and report on critical
 
 * [grunt-penthouse](https://github.com/fatso83/grunt-penthouse)
 * [grunt-critical-css](https://github.com/filamentgroup/grunt-criticalcss)
-
+* [grunt-critical](https://github.com/bezoerb/grunt-critical)
 
 ## CasperJS
 
@@ -43,6 +43,7 @@ The following is a list of tools to help generate, inline and report on critical
 
 * [inline-styles](https://github.com/maxogden/inline-styles) - by Max Ogden, replaces `<link>` tags with inline `<style>` tags + inlines CSS url() calls with data URIs
 * [gulp-inline-source](https://github.com/fmal/gulp-inline-source) - by Filip Malinowski, replaces `<link>` tags with inline `<style>` tags, and replaces `<script src="">` tags with their inline content
+* [inline-critical](https://github.com/bezoerb/inline-critical) - by Ben Zörb, inline critical path CSS and load existing stylesheets with `loadCSS`
 
 ## Async load CSS
 
