@@ -18,6 +18,7 @@ The following is a list of tools to help generate, inline and report on critical
 * [Penthouse](https://github.com/pocketjoso/penthouse) - by Jonas Ohlsson generates critical-path CSS
 * [Critical](https://github.com/addyosmani/critical) - by Addy Osmani generates & inlines critical-path CSS (uses Penthouse, [Oust](https://github.com/addyosmani/oust) and inline-styles)
 * [CriticalCSS](https://github.com/filamentgroup/criticalcss) - by FilamentGroup finds & outputs critical CSS
+* [compile-critical-css](https://github.com/fengzilong/compile-critical-css) - by Zilong Feng precompile your css to a function that generates critical css dynamically, and the generated function can be used in your NodeJS application runtime
 
 
 ## Server-side modules
